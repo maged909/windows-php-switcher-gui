@@ -69,6 +69,6 @@ or you can simply double click the phpSwitcherGui.py file Or the .exe file
 - after changing the php any already opened terminals would still be working with the old php so you need to restart them
 
 # Console App
-also you can check the console app version of php-switcher here https://github.com/maged909/windows-php-switcher/tree/main
+also you can check the console app version of php-switcher here https://github.com/maged909/windows-php-switcher-gui
 
 
