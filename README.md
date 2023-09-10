@@ -22,7 +22,6 @@ only if you're using .py file:
 
 		git clone https://github.com/maged909/windows-php-switcher.git
 		
-	or download it you can also look up the [Releases](https://github.com/maged909/windows-php-switcher/releases) :)
 
 -	change the current directory to windows-php-switcher-gui
 
@@ -31,6 +30,8 @@ only if you're using .py file:
 -	install python requirements
 
 		pip install -r requirements.txt
+
+or check out the [Releases](https://github.com/maged909/windows-php-switcher-gui/releases) :)
 
 # Requirements
 only if you're using .py file:
