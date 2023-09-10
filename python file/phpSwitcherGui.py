@@ -18,10 +18,10 @@ app_icon='./phpswitcher.ico'
 can_pass = True
 # Your variables
 appVerion = "PHP Swicher V1.0.1"
-docs = 'https://github.com/maged909/windows-php-switcher'
+docs = 'https://github.com/maged909/windows-php-switcher-gui'
 aboutTxt = f'PHP Switcher\nIt\'s a simple open-source python tool that allows you to switch between php versions by modifying the system environment variable "PATH" to tell windows where the desired php is.\n\nRead the documentation here: {docs}'
 
-guideHelp = 'https://github.com/maged909/windows-php-switcher/blob/main/README.md#config-notes'
+guideHelp = 'https://github.com/maged909/windows-php-switcher-gui/blob/main/README.md#config-notes'
 configGuideUrl = f"Need help with the config? visit our config guide: {guideHelp}"
 
 def showError(msg):
