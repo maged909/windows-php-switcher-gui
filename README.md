@@ -20,7 +20,7 @@ php switcher is a simple tool created with python to help manage and switch betw
 only if you're using .py file:
 -	clone the repo
 
-		git clone [https://github.com/maged909/windows-php-switcher.git](https://github.com/maged909/windows-php-switcher-gui.git)
+		git clone https://github.com/maged909/windows-php-switcher-gui.git
 		
 
 -	change the current directory to windows-php-switcher-gui
