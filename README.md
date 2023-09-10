@@ -56,8 +56,8 @@ here i have two php versions php7.3 and php8.2.3 each one with their selection t
 i'm here using php in my xampp folder but you can point to wherever you have the php 
 
 # Config Notes
-- each php version must have selection and path
-- selection must be unique for each php version
+- each php version must have path
+- path and name must be unique for each php version
 - path must be a valid absolute path to the php folder not file and cannot contain ";"
 	
 	
