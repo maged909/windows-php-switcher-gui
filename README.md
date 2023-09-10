@@ -1,5 +1,9 @@
-# windows-php-switcher-gui
+<h1><span align="center">
+  <img src="https://raw.githubusercontent.com/maged909/windows-php-switcher-gui/main/phpswitcher.ico" alt="Icon" width="40" height="40">
+</span>
+PHP Switcher GUI</h1>
 php switcher is a simple tool created with python to help manage and switch between multiple php versions by simply changing the PATH variable to tell windows at where the desired php version is located.
+
 
 ![program picture](https://github.com/maged909/windows-php-switcher-gui/blob/main/phpSwitcherGUI.jpg)
 ![program picture](https://github.com/maged909/windows-php-switcher-gui/blob/main/phpSwitcherGUI-edit-tab.jpg)
