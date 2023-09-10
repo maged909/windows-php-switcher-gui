@@ -41,8 +41,7 @@ only if you're using .py file:
 	ttkthemes==3.2.2
 
 # Configration
-Go to config.js and add the php versions you want with their absolute path
-here's an example
+config.js will contain the information about the available php versions and it would look something like that, you wouldn't need to edit the file directly as the app have an "Edit Config" tab
 
 	{
     "php7.3": {
@@ -52,9 +51,6 @@ here's an example
         "path": "C:\\xampp\\php823"
     }
 	}
-	
-here i have two php versions php7.3 and php8.2.3 each one with their selection that would show in menu and their path that would be used in the environment variable
-i'm here using php in my xampp folder but you can point to wherever you have the php 
 
 # Config Notes
 - each php version must have path
