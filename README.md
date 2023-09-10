@@ -61,9 +61,9 @@ config.js will contain the information about the available php versions and it w
 # Usage
 to use it just run the phpSwitcher.py on a terminal that has an adminstrator permissions
 
-	python phpSwitcher.py
+	python phpSwitcherGui.py
 
-or you can simply double click the phpSwitcher.py file Or the .exe file
+or you can simply double click the phpSwitcherGui.py file Or the .exe file
 	
 - keep in mind that the program would ask for primission that's just coz it needs that to modify the system environment variable "PATH"
 - after changing the php any already opened terminals would still be working with the old php so you need to restart them
