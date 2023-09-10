@@ -1,16 +1,19 @@
 # windows-php-switcher-gui
 php switcher is a simple tool created with python to help manage and switch between multiple php versions by simply changing the PATH variable to tell windows at where the desired php version is located.
 
+![program picture](https://github.com/maged909/windows-php-switcher-gui/blob/main/phpSwitcherGUI.jpg)
+![program picture](https://github.com/maged909/windows-php-switcher-gui/blob/main/phpSwitcherGUI-edit-tab.jpg)
 
-- [Installation](#Installation)
-- [Requirements](#Requirements)
-- [Configration](#Configration)
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Configration](#configration)
 - [Config Notes](#config-notes)
-- [Usage](#Usage)
+- [Usage](#usage)
+- [Console App](#console-app)
 
 
 # Installation
-if you're using .py file:
+only if you're using .py file:
 -	clone the repo
 
 		git clone https://github.com/maged909/windows-php-switcher.git
@@ -26,9 +29,11 @@ if you're using .py file:
 		pip install -r requirements.txt
 
 # Requirements
-	
-	colorama==0.4.6
+only if you're using .py file:
+
+	customtkinter==5.2.0
 	tabulate==0.9.0
+	ttkthemes==3.2.2
 
 # Configration
 Go to config.js and add the php versions you want with their absolute path
@@ -61,5 +66,8 @@ or you can simply double click the phpSwitcher.py file Or the .exe file
 	
 - keep in mind that the program would ask for primission that's just coz it needs that to modify the system environment variable "PATH"
 - after changing the php any already opened terminals would still be working with the old php so you need to restart them
+
+# Console App
+also you can check the console app version of php-switcher here https://github.com/maged909/windows-php-switcher/tree/main
 
 
